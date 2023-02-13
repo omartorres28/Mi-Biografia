@@ -1,10 +1,10 @@
 # Mi-Biografia
-ESte es mi primer sitio. Se trata de mi autobiografia y otros aspectos de mi interes.
+Este es mi primer sitio. Se trata de mi autobiografia y otros aspectos de mi interes.
 
 ## Secciones (paginas) del sitio web
 index.html: pagina principal del sitio. Es una portada de su autobiografia
 
--ligar  y fecha de nacimiento.
+-lUgar  y fecha de nacimiento.
 
 -Familia.
 
