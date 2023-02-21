@@ -1,11 +1,30 @@
+@import url('https://fonts.cdnfonts.com/css/cheyenne-hand');           
+                
+
 .Titulo{
     background: #64c27b;
     padding: 30px;
+    font-family: 'Cheyenne Hand', sans-serif;
+    font-family: 'Cheyenne Hand Italic', sans-serif;
+    font-family: 'Cheyenne Hand Bold', sans-serif;
+    font-family: 'Cheyenne Hand Bold Italic', sans-serif;
+
+                                                
+                                                
 }
 .amigos{
     background: #03bb85;
     padding: 30px;
 }
-.items{
-    background: #03bb85;
+.color1 {color: #20a6d8;}
+.color2 {color: #f180e5;}
+.color3 {color: #f49eb6;}
+.color4 {color: #f4e79c;}
+.color5 {color: #f8efc8;}
+
+hr{
+    border-width:4px;
+    border-style:dotted;
+    border-color:#03bb85;
+    width:50%;
 }
