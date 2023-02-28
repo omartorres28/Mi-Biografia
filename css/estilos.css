@@ -28,3 +28,17 @@ hr{
     border-color:#03bb85;
     width:50%;
 }
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+.imagen1{
+    margin-right: 10px;
+}
+
+body{
+    background-image: url(../img/cielo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
